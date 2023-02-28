@@ -1,3 +1,0 @@
-Hello world
-Hello java
-Hello python and java
